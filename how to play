@@ -1,0 +1,60 @@
+
+## 🎯 How to Play
+
+1. Launch the game
+2. Enter your character name
+3. Choose from the following actions:
+   - `1` - Explore the world
+   - `2` - Check your inventory
+   - `3` - Check your status
+   - `4` - Quit the game
+
+### Game Events
+
+During exploration, you might:
+- Find treasure chests with gold
+- Meet friendly merchants
+- Discover healing potions
+- Encounter monsters
+
+### Game Over Conditions
+
+The game ends when either:
+- Your health reaches 0
+- You choose to quit
+
+## 🛠️ Game Mechanics
+
+- **Health System**: Start with 100 HP
+- **Inventory**: Collect items during your adventure
+- **Score**: Earn points by finding treasure
+- **Combat**: Random monster encounters can damage your health
+
+## 🤝 Contributing
+
+Feel free to fork this project and add your own improvements:
+- Add new events and encounters
+- Implement a combat system
+- Create new items and equipment
+- Add different locations
+- Implement a save/load system
+
+## 📝 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+## 👥 Authors
+
+- Your Name
+
+## 🙏 Acknowledgments
+
+- Thanks to Python community for inspiration
+- Special thanks to all contributors
+
+## 📞 Support
+
+If you have any questions or run into issues, please open an issue in the repository.
+
+---
+Happy Gaming! 🎮
